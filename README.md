@@ -3,7 +3,7 @@
 # Muhammad Owais Raza
 ### Cybersecurity Enthusiast | CEH Candidate | BSCS Graduate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--owais--raza-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/muhammad-owais-raza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--owais--raza-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-owais-raza-8693753a7)
 [![GitHub](https://img.shields.io/badge/GitHub-Mianowaisraza-181717?style=for-the-badge&logo=github)](https://github.com/Mianowaisraza)
 [![Location](https://img.shields.io/badge/Location-Lahore,_Pakistan-green?style=for-the-badge&logo=googlemaps)](https://maps.google.com/?q=Lahore,Pakistan)
 
